@@ -1,5 +1,3 @@
-# Windows Update 缓存清理脚本：高效安全清理方案
-
 # Windows Update 缓存清理脚本
 
 ## 项目简介
